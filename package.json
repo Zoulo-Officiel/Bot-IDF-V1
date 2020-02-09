@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "description": "bot pour IDF RP",
+  "main": "index.js",
+  "repository": "https://github.com/Zoulo-Officiel/Bot-IDF-V1.git",
+  "author": "Zoulo <zoulocr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
